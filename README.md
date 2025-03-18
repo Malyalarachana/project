@@ -1,3 +1,4 @@
 # new project
 this is new one
-git status
+git statusfg
+sdfghjklgit status
